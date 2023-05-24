@@ -1,8 +1,8 @@
 # Fundamentos_Robótica_Grupo_NAO_Coreograph
 
 Repositório destinado ao trabalho da matéria de robótica da Fga. 
+![Capa](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/f474ad82-cf4f-423b-98ca-c8b813f377f8)
 
-![kisspng-humanoid-robot-nao-robotics-robot-png-photos-5a753cb9b65847 3118324815176326977469](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/158c388a-58d0-48e4-a2dc-f837e555c806)
 
 ## Descrição do Projeto (NAO - Coreograph)  
 
