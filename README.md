@@ -1,8 +1,8 @@
 # Fundamentos_Robótica_Grupo_NAO_Coreograph
 
 Repositório destinado ao trabalho da matéria de robótica da Fga. 
-![Capa](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/f474ad82-cf4f-423b-98ca-c8b813f377f8)
 
+![Capa_2](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/25f95502-38bd-492a-8fb4-6931fe6f2074)
 
 ## Descrição do Projeto (NAO - Coreograph)  
 
@@ -26,6 +26,8 @@ Breno Linhares de Sousa - 170007057
 Haniel Rodrigues Guimaraes de Lima – 150036558
 
 Vitor Rangel de Aquino Silva – 170064107
+
+Felipe Costa Gomes - 190012757
 
 # PROJETO 01 - Definindo Ações por Reconhecimento de Fala 
 
