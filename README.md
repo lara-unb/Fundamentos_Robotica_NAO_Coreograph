@@ -85,6 +85,59 @@ O Código implementado pode ser acessado na pasta [Projeto_1](https://github.com
 
 # PROJETO 02 - 
 
+# Resumo
+
+Para o segundo projeto o grupo escolheu realizar as tarefas no Robô NAO e a programação foi realizada no softwre Coreography 2.8.6.23  disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
+
+A segunda tarefa desenvolvida pelo grupo foi fazer o NAO ouvir, reconhecer palavras em português e realizar diferentes exercícios de acordo com a palavra pronuciada. Quando há a detecção de um comando válido, o NAO responde com o nome do exercicio a ser executado, e uma demonstração do mesmo.
+
+## Conteúdo
+
+- [Introdução](#1)
+- [Video](#2)
+- [Implementação](#3)
+- [Código](#3)
+
+<a id='1'></a>
+
+## Instrodução
+
+Para a implementação dessa atividade no NAO foram utilizados os microfones e alto falantes do NAO além de outros sensores e atuadores como motores de passo e giroscópios para o movimento das juntas do robô. A imagem abaixo detalha melhor a localização dos microfones . 
+
+![sensores](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/39ac133a-d499-4dd6-be05-ccbe49dafa61)
+
+
+<a id='2'></a>
+## Vídeo
+
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: ALTERAR LINK https://www.youtube.com/watch?v=vUP44cZrWn8&ab_channel=BrenoLinhares
+
+<a id='3'></a>
+## Implementação
+
+As figuras abaixo mostram os diagramas de blocos montados no software coreography. O diagrama principal é iniciado com um *"Setup"* para definir os parâmetros iniciais do NAO, em seguida o diagrama *"StartCond*" que realiza as seguintes tarefas:
+
+1. Reconhecer a palavra pronuciada - implementada pelo bloco *"SPEECH RECO"* ;
+2. Utilizar um *swich case* para selecionar entre as palavras *"Iniciar"* e "*Aguarde"*;
+3. Dependendo da palavra reconhecida o NAO solicita qual exercicio seja demonstrado;
+
+Após o diagrama "*StartCond*" o NAO ira solicitar a escolha de um dos três exercícios para demonstração, o usuário poderá escolher falando *"Primeiro*", "*Segundo*" ou "*Terceiro*", sendo eles:
+
+1. Agachamento;
+2. Rosca com Halter;
+3. Flexões;
+
+Todas as saídas dos blocos de ação são realimentados ao bloco *"SPEECH RECO"* para que o NAO possa reconhecer novas palavras após terminar de realizar a ação atual. 
+
+![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
+
+OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilidade para reconhecimento dos padrões da fala.
+
+<a id='4'></a>
+## Código
+O Código implementado pode ser acessado na pasta [Projeto_2] ALTERAR LINK(https://github.com/themestrre/Grupo-NAO-Coreograph-/tree/main/PROJETO_1) deste repositório. 
+
+
 # PROJETO 03 - 
 
 # PROJETO 04 - 
