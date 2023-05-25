@@ -128,8 +128,8 @@ Após o diagrama "*StartCond*" o NAO ira solicitar a escolha de um dos três exe
 3. Flexões;
 
 Todas as saídas dos blocos de ação são realimentados ao bloco *"SPEECH RECO"* para que o NAO possa reconhecer novas palavras após terminar de realizar a ação atual. 
+![Exercicios_NAO_diagrama_de_blocos](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/d4dfbea6-2a6f-42f7-b659-89eb16a17456)
 
-![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
 
 OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilidade para reconhecimento dos padrões da fala.
 
