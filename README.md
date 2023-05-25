@@ -110,7 +110,7 @@ Para a implementação dessa atividade no NAO foram utilizados os microfones e a
 <a id='2'></a>
 ## Vídeo
 
-O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: ALTERAR LINK https://www.youtube.com/watch?v=vUP44cZrWn8&ab_channel=BrenoLinhares
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=7cDK8Ie3fHM&ab_channel=BrenoLinhares
 
 <a id='3'></a>
 ## Implementação
