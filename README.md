@@ -110,7 +110,7 @@ Para a implementação dessa atividade no NAO foram utilizados os microfones e a
 <a id='2'></a>
 ## Vídeo
 
-O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: ALTERAR LINK https://www.youtube.com/watch?v=vUP44cZrWn8&ab_channel=BrenoLinhares
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link:https://www.youtube.com/watch?v=vUP44cZrWn8&ab_channel=BrenoLinhares
 
 <a id='3'></a>
 ## Implementação
@@ -128,14 +128,20 @@ Após o diagrama "*StartCond*" o NAO ira solicitar a escolha de um dos três exe
 3. Flexões;
 
 Todas as saídas dos blocos de ação são realimentados ao bloco *"SPEECH RECO"* para que o NAO possa reconhecer novas palavras após terminar de realizar a ação atual. 
-![Exercicios_NAO_diagrama_de_blocos](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/d4dfbea6-2a6f-42f7-b659-89eb16a17456)
+
+![Exerc2](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/31707994/2069b0d7-6011-4dcc-abea-71e162755705)
+
+![Exerc1](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/31707994/77c2baad-a14e-4557-bb64-fbc67d03d6b6)
 
 
 OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilidade para reconhecimento dos padrões da fala.
 
+
+
 <a id='4'></a>
 ## Código
-O Código implementado pode ser acessado na pasta [Projeto_2] ALTERAR LINK(https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
+O Código implementado pode ser acessado na pasta [Projeto_2] ALTERAR LINK(https://github.com/lara-![Uploading Exerc1.jpg…]()
+unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
 
 # PROJETO 03 - 
 
