@@ -83,7 +83,7 @@ O Código implementado pode ser acessado na pasta [Projeto_1](https://github.com
 
 
 
-# PROJETO 02 - 
+# PROJETO 02 - Exercícios Físcos com NAO
 
 # Resumo
 
