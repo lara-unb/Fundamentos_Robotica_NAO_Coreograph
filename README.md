@@ -137,7 +137,36 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 ## Código
 O Código implementado pode ser acessado na pasta [Projeto_2] ALTERAR LINK(https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
 
-# PROJETO 03 - 
+# PROJETO 03 -
+
+# Resumo
+
+Para o segundo projeto o grupo escolheu realizar as tarefas no Robô NAO e a programação foi realizada no softwre Coreography 2.8.6.23  disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
+
+
+## Conteúdo
+
+- [Introdução](#1)
+- [Video](#2)
+- [Implementação](#3)
+- [Código](#3)
+
+<a id='1'></a>
+## Instrodução
+
+
+<a id='2'></a>
+## Vídeo
+
+
+<a id='3'></a>
+## Implementação
+
+
+
+<a id='4'></a>
+## Código
+
 
 # PROJETO 04 - 
 
