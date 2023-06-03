@@ -135,7 +135,7 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 
 <a id='4'></a>
 ## Código
-O Código implementado pode ser acessado na pasta [Projeto_2] ALTERAR LINK(https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
+O Código implementado pode ser acessado na pasta [Projeto_2](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
 
 
 
@@ -191,7 +191,8 @@ O diagrama "Facial Recognition" é apresentado abaixo, contendo o bloco "switch 
 <a id='4'></a>
 ## Código
 
-O Código implementado pode ser acessado na pasta [PROJETO_3].
+O Código implementado pode ser acessado na pasta [PROJETO_3](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_3) deste repositório. 
+
 
 # PROJETO 04 - 
 
