@@ -137,13 +137,13 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 ## Código
 O Código implementado pode ser acessado na pasta [Projeto_2] ALTERAR LINK(https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
 
-# PROJETO 03 -
+# PROJETO 03 - Reconhecimento Facial com NAO
 
 # Resumo
 
-Para o segundo projeto o grupo escolheu realizar as tarefas no Robô NAO e a programação foi realizada no softwre Coreography 2.8.6.23  disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
+Para o terceiro projeto o grupo escolheu realizar as tarefas no Robô NAO e a programação foi realizada no softwre Coreography 2.8.6.23 disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
 
-
+A terceira tarefa desenvolvida pelo grupo foi fazer o NAO reconhecer, aprender e armazenar as faces dos integrantes do grupo. A partir do armazenamento do rosto do integrante o NAO consegue reconhecer a respectiva face através dos blocos "Learn Face" e "Switch Case" e, após o toque no sensor de cabeça frontal do NAO ele reconhece falando a seguinte frase "Bom dia Carlos", por exemplo.
 ## Conteúdo
 
 - [Introdução](#1)
@@ -154,6 +154,7 @@ Para o segundo projeto o grupo escolheu realizar as tarefas no Robô NAO e a pro
 <a id='1'></a>
 ## Instrodução
 
+Para a implementação dessa atividade no NAO foram utilizados o alto falante, câmera e o sensor da cabeça frontal. Na figura abaixo é apresentado todos os sensores do NAO e os utilizados para este projeto.
 
 <a id='2'></a>
 ## Vídeo
