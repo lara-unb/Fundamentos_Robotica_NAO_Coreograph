@@ -186,10 +186,10 @@ O diagrama "Facial Recognition" é apresentado abaixo, contendo o bloco "switch 
 
 ![Figura4](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/94d965a5-2688-48f3-84a3-54576174c0c1)
 
-O Código implementado pode ser acessado na pasta [PROJETO_3].
 <a id='4'></a>
 ## Código
 
+O Código implementado pode ser acessado na pasta [PROJETO_3].
 
 # PROJETO 04 - 
 
