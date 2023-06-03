@@ -156,9 +156,12 @@ A terceira tarefa desenvolvida pelo grupo foi fazer o NAO reconhecer, aprender e
 
 Para a implementação dessa atividade no NAO foram utilizados o alto falante, câmera e o sensor da cabeça frontal. Na figura abaixo é apresentado todos os sensores do NAO e os utilizados para este projeto.
 
+![The-Nao-robot-The-camera-used-for-recording-the-child-activity-is-the-one-on-the-top](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/efcd8723-f4d5-4ea2-8e2c-d96aa7f909a2)
+
+
 <a id='2'></a>
 ## Vídeo
-
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=osMQio_8DwU 
 
 <a id='3'></a>
 ## Implementação
