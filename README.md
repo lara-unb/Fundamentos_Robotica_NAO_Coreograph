@@ -137,6 +137,8 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 ## Código
 O Código implementado pode ser acessado na pasta [Projeto_2] ALTERAR LINK(https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
 
+
+
 # PROJETO 03 - Reconhecimento Facial com NAO
 
 # Resumo
@@ -171,14 +173,14 @@ Como visto no diagrama do blocos abaixo, é necessário primeiro usar o bloco "L
 ![Figura1](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/bbca4bb2-4d6d-443c-bab3-7700add4b347)
 
 A estrutura do diagrama "Setup" é:
-1. Use a caixa "Stand Up"
-2. Ative apenas os parâmetros "Autonomous Blinking" e "Background Movement" na caixa "Autonomous Abilities" e desative os outros três.
+1. Use o bbloco "Stand Up"
+2. Ative apenas os parâmetros "Autonomous Blinking" e "Background Movement" no bloco "Autonomous Abilities" e desative os outros três.
 
 ![Figura2](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/ecd7ed82-df65-4a89-a0af-120160122a0a)
 
 A estrutura do diagrama "Start Condition" é:
-1. Defina o texto da caixa "Text Edit" à esquerda para algo como "Toque no sensor frontal da minha cabeça se quiser que eu reconheça rostos famosos".
-2. Defina o texto da caixa "Text Edit" à direita para algo como "Ok, por favor, segure um rosto famoso na minha frente".
+1. Defina o texto do bloco "Text Edit" à esquerda para algo como "Toque no sensor frontal da minha cabeça se quiser que eu reconheça rostos famosos".
+2. Defina o texto do bloco "Text Edit" à direita para algo como "Ok, por favor, segure um rosto famoso na minha frente".
 
 ![Figura3](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/56c258f4-ce0f-44ec-8f0b-e980f6e95e86)
 
