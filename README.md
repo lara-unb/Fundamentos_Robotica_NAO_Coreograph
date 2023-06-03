@@ -166,8 +166,27 @@ O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessa
 <a id='3'></a>
 ## Implementação
 
+Como visto no diagrama do blocos abaixo, é necessário primeiro usar o bloco "Learn Face" para salvar os rostos dos integrantes do grupo, caso contrário, o NAO não poderá reconhecê-los. Em sequência, ao iniciar o programa, o reconhecimento facial é iniciado após os diagramas de "Setup" e "Start Condition". Após o reconhecimento facial, o bloco "Raise Event" é ativada para que você possa repetir o processo novamente.
 
+![Figura1](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/bbca4bb2-4d6d-443c-bab3-7700add4b347)
 
+A estrutura do diagrama "Setup" é:
+1. Use a caixa "Stand Up"
+2. Ative apenas os parâmetros "Autonomous Blinking" e "Background Movement" na caixa "Autonomous Abilities" e desative os outros três.
+
+![Figura2](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/ecd7ed82-df65-4a89-a0af-120160122a0a)
+
+A estrutura do diagrama "Start Condition" é:
+1. Defina o texto da caixa "Text Edit" à esquerda para algo como "Toque no sensor frontal da minha cabeça se quiser que eu reconheça rostos famosos".
+2. Defina o texto da caixa "Text Edit" à direita para algo como "Ok, por favor, segure um rosto famoso na minha frente".
+
+![Figura3](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/56c258f4-ce0f-44ec-8f0b-e980f6e95e86)
+
+O diagrama "Facial Recognition" é apresentado abaixo, contendo o bloco "switch Case" como o principal para reconhcer a face do integrante.
+
+![Figura4](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/128266505/94d965a5-2688-48f3-84a3-54576174c0c1)
+
+O Código implementado pode ser acessado na pasta [PROJETO_3].
 <a id='4'></a>
 ## Código
 
