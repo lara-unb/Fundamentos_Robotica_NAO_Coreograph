@@ -18,6 +18,13 @@ Repositório destinado ao trabalho da matéria de robótica da Fga.
 **1.** Criar uma apresentação para cada entrega;  
 **2.** Ao menos duas com interações com usuários via sensores do robô;
 
+- [PROJETO 01](#11)
+- [PROJETO 02](#12)
+- [PROJETO 03](#13)
+- [PROJETO 04](#14)
+- [PROJETO 05](#15)
+
+
 ### Integrantes:
 Carlos Eduardo Leite de Oliveira - 170007707 
 
@@ -29,6 +36,7 @@ Vitor Rangel de Aquino Silva – 170064107
 
 Felipe Costa Gomes - 190012757
 
+<a id='11'></a>
 # PROJETO 01 - Definindo Ações por Reconhecimento de Fala 
 
 # Resumo
@@ -42,7 +50,7 @@ A primeira tarefa desenvolvida pelo grupo foi fazer o NAO ouvir e reconhecer pal
 - [Introdução](#1)
 - [Video](#2)
 - [Implementação](#3)
-- [Código](#3)
+- [Código](#4)
 
 <a id='1'></a>
 
@@ -82,7 +90,7 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 O Código implementado pode ser acessado na pasta [Projeto_1](https://github.com/themestrre/Grupo-NAO-Coreograph-/tree/main/PROJETO_1) deste repositório. 
 
 
-
+<a id='12'></a>
 # PROJETO 02 - Exercícios Físcos com NAO
 
 # Resumo
@@ -138,7 +146,7 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 O Código implementado pode ser acessado na pasta [Projeto_2](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_2) deste repositório. 
 
 
-
+<a id='13'></a>
 # PROJETO 03 - Reconhecimento Facial com NAO
 
 # Resumo
@@ -193,7 +201,8 @@ O diagrama "Facial Recognition" é apresentado abaixo, contendo o bloco "switch 
 
 O Código implementado pode ser acessado na pasta [PROJETO_3](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_3) deste repositório. 
 
-
+<a id='14'></a>
 # PROJETO 04 - 
 
+<a id='15'></a>
 # PROJETO 05 - 
