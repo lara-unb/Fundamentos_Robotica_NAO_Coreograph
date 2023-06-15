@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" installOnlyAtStartup="false" uuid="the_robot_21-3c119e">
+ <names>
+  <name lang="en_US">the_robot_2 (1)</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="the_robot_2 (1)">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
