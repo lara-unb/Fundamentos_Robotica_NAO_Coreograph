@@ -240,7 +240,7 @@ As figuras abaixo mostram os diagramas de blocos montados no software coreograph
 
 Após o diagrama da guitarra o NAO faz um agradecimento retorna a posição de espera para um comando, se ele faz o diagrama do saxofone a programação é encerrada. 
 
-![Performance_Musical_NAO_diagrama_de_blocos]()
+![Performance_Musical_NAO_diagrama_de_blocos](PROJETO_4/Blocos.PNG)
 
 
 OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 43 como sensibilidade para reconhecimento dos padrões da fala.
