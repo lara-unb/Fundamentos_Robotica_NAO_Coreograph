@@ -202,7 +202,54 @@ O diagrama "Facial Recognition" é apresentado abaixo, contendo o bloco "switch 
 O Código implementado pode ser acessado na pasta [PROJETO_3](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_3) deste repositório. 
 
 <a id='14'></a>
-# PROJETO 04 - 
+# PROJETO 04 - Performance Musical com o Nao
 
+# Resumo
+
+No quarto projeto o grupo escolheu realizar duas performance musicais no Robô NAO e a programação foi realizada no software Coreography 2.8.6.23  disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
+
+ O quarto projeto desenvolvido pelo grupo foi fazer o NAO ouvir, reconhecer palavras em português e realizar performance musicais de acordo com a palavra pronuciada. Quando há a detecção de um comando válido, o NAO começa a fazer sua performance ao som de uma musica do instrumento de sua apresentação.
+
+## Conteúdo
+
+- [Introdução](#1)
+- [Video](#2)
+- [Implementação](#3)
+- [Código](#3)
+
+<a id='1'></a>
+
+## Introdução
+
+Para a implementação dessa atividade no NAO foram utilizados os microfones para a captação dos comandos a serem realizados e os alto falantes do NAO para reproduzir as musicas e falas do NAO além de outros sensores e atuadores como motores de passo e giroscópios para o movimento das juntas do robô. Assim com já foi esclarecido nos projetos acima. A intenção neste projeto é fazer um pouco de entretenimento por meio de performance musicais do NAO
+
+
+
+
+<a id='2'></a>
+## Vídeo
+
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: (https://www.youtube.com/watch?v=dMhk7Ilo50A)
+<a id='3'></a>
+## Implementação
+
+As figuras abaixo mostram os diagramas de blocos montados no software coreography. O diagrama principal é iniciado com uma *"Posição Inicial"* seguida de um diagrama para o NAO comprimentar com um "oi" esperando no bloco *"SPEECH RECO"* para realizar as seguintes performance:
+
+1. A palavra "*Musica*" quando o NAO a reconhecer ativa o comando de voz seguido de um performance do NAO tocando guitarra;
+2.A palavra "*Outra*" quando o NAO a reconhecer ativa outra fala seguida de uma performance do NAO tocando saxofone;
+
+Após o diagrama da guitarra o NAO faz um agradecimento retorna a posição de espera para um comando, se ele faz o diagrama do saxofone a programação é encerrada. 
+
+![Performance_Musical_NAO_diagrama_de_blocos]()
+
+
+OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 43 como sensibilidade para reconhecimento dos padrões da fala.
+
+<a id='4'></a>
+## Código
+O Código implementado pode ser acessado na pasta [Projeto_4](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_4) deste repositório. 
+
+
+<a id='13'></a>
 <a id='15'></a>
 # PROJETO 05 - 
