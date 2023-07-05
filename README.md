@@ -252,4 +252,69 @@ O Código implementado pode ser acessado na pasta [Projeto_4](https://github.com
 
 <a id='13'></a>
 <a id='15'></a>
-# PROJETO 05 - 
+# PROJETO 05 - NAO Dançarino
+
+# Resumo
+
+Para o quinto projeto o grupo escolheu realizar as tarefas no Robô NAO e a programação foi realizada no softwre Coreography 2.8.6.23  disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
+
+O quinto projeto desenvolvido pelo grupo foi fazer o NAO dançar a musica "Thriller" do Michael Jackson e se comunicar de forma não interativa. 
+
+## Conteúdo
+
+- [Introdução](#1)
+- [Video](#2)
+- [Implementação](#3)
+- [Código](#3)
+
+<a id='1'></a>
+
+## Introdução
+
+No projeto desenvolvido, foi programado o robô NAO para realizar uma dança ao som da música "Thriller" do Michael Jackson. Utilizando o software Choregraphe, foram criados os movimentos coreografados que incorporam os icônicos passos de dança do Michael Jackson. A música foi importada para o Choregraphe e sincronizada com os movimentos da coreografia. Durante a apresentação, o robô NAO reproduz a música através de seu alto-falante embutido, criando uma experiência imersiva. Além disso, foi utilizado o bloco "Say" para que o robô pudesse falar, e ao final da dança, o robô NAO acrescenta um toque de humor ao expressar que está cansado.
+
+Para a implementação dessa atividade foram utilizados os alto falantes do NAO além de uma série de motores distribuídos em suas articulações, permitindo uma ampla gama de movimentos fluidos e realistas. A imagem abaixo detalha melhor a localização dos alto-falantes.
+
+![sensores](http://doc.aldebaran.com/2-1/_images/hardware_speakerposition.png) 
+
+<a id='2'></a>
+## Vídeo
+
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: ()
+<a id='3'></a>
+## Implementação
+
+![Performance_Dancando_NAO_diagrama_de_blocos](PROJETO_5/Imagens/diagrama_blocos.png)
+
+No projeto, foi criado um bloco chamado "thriller" que contém uma sequência de ações relacionadas à dança ao som da música "Thriller" do Michael Jackson. O bloco "thriller" é composto pelos seguintes blocos:
+
+1. Bloco `setVolume`: Esse bloco é responsável por definir o volume do áudio reproduzido pelo robô NAO durante a dança. É utilizado para ajustar o volume da música "Thriller" para um nível adequado.
+
+2. Bloco `Say`: Esse bloco permite que o robô NAO fale uma frase antes de iniciar a dança.
+
+3. Bloco `dance_Thriller`: Esse bloco contém a sequência de movimentos coreografados para a dança ao som de "Thriller". Utilizando comandos específicos para os motores do robô NAO, os movimentos característicos e icônicos do Michael Jackson são programados e executados.
+
+4. Bloco `say`: Este bloco é utilizado após a sequência de dança para adicionar uma fala do robô NAO.  nesse ponto o robô agradece a atenção de quem prestou atenção na dança.
+
+5. Bloco `setVolume`: Novamente, esse bloco é usado para ajustar o volume do áudio, restaurando-o para o nível original.
+
+6. Bloco `END POSE`: Esse bloco define uma pose final para o robô NAO após a conclusão da dança e das ações programadas. Ele é usado para encerrar a performance em uma pose específica ou em uma posição relaxada.
+
+Segue abaixo a imagem do diagrama do bloco Thriller:
+
+![Performance_Dancando_NAO_diagrama_de_blocos](PROJETO_5/Imagens/diagrama_thriller.png)
+
+Após o diagrama Thriller, tem o bloco "Wipe Forehead" que inclui um bloco Say, onde o robô NAO expressa que está cansado. Esse gesto de "Wipe Forehead" é adicionado para complementar a fala e dar uma expressão visual ao cansaço do robô.
+
+![Performance_Dancando_NAO_diagrama_de_blocos](PROJETO_5/Imagens/diagrama_wipe_forehead.png)
+
+Posteriormente, tem novamente um bloco de `END POSE` para que o robô volte para posição relaxada e, por fim, um bloco `Say` para fazer uma brincadeira dizendo que todos os integrantes do grupo merecem passar com SS.
+
+
+<a id='4'></a>
+## Código
+O Código implementado pode ser acessado na pasta [Projeto_5](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_5) deste repositório. 
+
+
+<a id='13'></a>
+<a id='15'></a>
