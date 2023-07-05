@@ -284,6 +284,8 @@ O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessa
 <a id='3'></a>
 ## Implementação
 
+Na figura abaixo está representado o diagrama geral do projeto.  
+
 ![Performance_Dancando_NAO_diagrama_de_blocos](PROJETO_5/Imagens/diagrama_blocos.png)
 
 No projeto, foi criado um bloco chamado "thriller" que contém uma sequência de ações relacionadas à dança ao som da música "Thriller" do Michael Jackson. O bloco "thriller" é composto pelos seguintes blocos:
@@ -313,7 +315,7 @@ Posteriormente, tem novamente um bloco de `END POSE` para que o robô volte para
 
 <a id='4'></a>
 ## Código
-O Código implementado pode ser acessado na pasta [Projeto_5](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_5) deste repositório. 
+O Código implementado pode ser acessado na pasta [Projeto_5](https://github.com/FelipeCosmes/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_5) deste repositório. 
 
 
 <a id='13'></a>
