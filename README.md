@@ -286,7 +286,8 @@ O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessa
 
 Na figura abaixo está representado o diagrama geral do projeto.  
 
-![Performance_Dancando_NAO_diagrama_de_blocos](PROJETO_5/Imagens/diagrama_blocos.png)
+![diagrama_blocos](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/e71108cb-dd19-4b21-be9d-652cd66ba566)
+
 
 No projeto, foi criado um bloco chamado "thriller" que contém uma sequência de ações relacionadas à dança ao som da música "Thriller" do Michael Jackson. O bloco "thriller" é composto pelos seguintes blocos:
 
@@ -304,11 +305,13 @@ No projeto, foi criado um bloco chamado "thriller" que contém uma sequência de
 
 Segue abaixo a imagem do diagrama do bloco Thriller:
 
-![Performance_Dancando_NAO_diagrama_de_blocos](PROJETO_5/Imagens/diagrama_thriller.png)
+![diagrama_thriller](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/1811bced-045c-4f1e-bb3e-5d114a7e3324)
+
 
 Após o diagrama Thriller, tem o bloco "Wipe Forehead" que inclui um bloco Say, onde o robô NAO expressa que está cansado. Esse gesto de "Wipe Forehead" é adicionado para complementar a fala e dar uma expressão visual ao cansaço do robô.
 
-![Performance_Dancando_NAO_diagrama_de_blocos](PROJETO_5/Imagens/diagrama_wipe_forehead.png)
+![diagrama_wipe_forehead](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/094cbc64-f727-4a89-947c-9de4ab406b00)
+
 
 Posteriormente, tem novamente um bloco de `END POSE` para que o robô volte para posição relaxada e, por fim, um bloco `Say` para fazer uma brincadeira dizendo que todos os integrantes do grupo merecem passar com SS.
 
