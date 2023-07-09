@@ -280,7 +280,7 @@ Para a implementação dessa atividade foram utilizados os alto falantes do NAO 
 <a id='2'></a>
 ## Vídeo
 
-O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: ()
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=a8psUZowr4M
 <a id='3'></a>
 ## Implementação
 
