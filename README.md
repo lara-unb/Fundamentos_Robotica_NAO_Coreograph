@@ -318,7 +318,7 @@ Posteriormente, tem novamente um bloco de `END POSE` para que o robô volte para
 
 <a id='4'></a>
 ## Código
-O Código implementado pode ser acessado na pasta [Projeto_5](https://github.com/FelipeCosmes/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_5) deste repositório. 
+O Código implementado pode ser acessado na pasta [Projeto_5](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_5) deste repositório. 
 
 
 <a id='13'></a>
