@@ -78,10 +78,12 @@ A figura abaixo mostra o diagrama de blocos montado no software coreography. O d
 5. Segunda ação *Levantar* - Implementada pelo bloco "STAND UP";
 6. Terceira ação *Latir* - Implementada pelo bloco "SAY" configurado para reproduzir o texto "AU AU AU AU";
 7. Quarta ação reconhecer e caminhar até a bola - Implementada pelos blocos "RED BALL TRACKER" e "MOVE TO"
+8. Por último ao Detectar e chegar próximo a bola é carregado o bloco do código em PYTHON com os parâmetros de movimento para a realização do chute da bola
 
 Todas as saídas dos blocos de ação são realimentados ao bloco *"SPEECH RECO"* para que o NAO possa reconhecer novas palavras após terminar de realizar a ação atual. 
 
-![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
+![NOVO_diagrama_de_blocos](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/assets/89438448/317cd603-54ce-4102-8743-e8a75de1ea90)
+
 
 OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilidade para reconhecimento dos padrões da fala.
 
