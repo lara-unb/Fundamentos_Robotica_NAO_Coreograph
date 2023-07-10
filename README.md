@@ -54,7 +54,7 @@ A primeira tarefa desenvolvida pelo grupo foi fazer o NAO ouvir e reconhecer pal
 
 <a id='1'></a>
 
-## Instrodução
+## Introdução
 
 Para a implementação dessa atividade no NAO foram utilizados os microfones, alto falantes e câmera do NAO para o reconhecimento da fala, para reprodução da fala e para o processamento de imagem para detecção da bola vermelha, além de outros sensores e atuadores como motores de passo e giroscópios para o movimento das juntas do robô. A imagem abaixo detalha melhor a localização dos microfones e a câmera presente nos olhos. 
 
@@ -92,6 +92,8 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 <a id='4'></a>
 ## Código
 O Código implementado pode ser acessado na pasta [Projeto_1](https://github.com/themestrre/Grupo-NAO-Coreograph-/tree/main/PROJETO_1) deste repositório. 
+
+O NOVO CÓDIGO IMPEMENTADO INCLUINDO AÇÃO DE ENCONTRAR E MOVIMENTO DE CHUTE DA BOLA PODE SER ACESSADO NA PASTA:[Projeto_1_NOVO](https://github.com/lara-unb/Fundamentos_Robotica_NAO_Coreograph/tree/main/PROJETO_1_COM_CHUTE_DA_BOLA)
 
 
 <a id='12'></a>
