@@ -66,6 +66,8 @@ Para a implementação dessa atividade no NAO foram utilizados os microfones, al
 
 O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=vUP44cZrWn8&ab_channel=BrenoLinhares
 
+VÍDEO NOVO COM MOVIMENTO DE CHUTE DA BOLA: https://www.youtube.com/watch?v=Wq4ho7nGxtk
+
 <a id='3'></a>
 ## Implementação
 
